@@ -1,0 +1,12 @@
+{
+    "threads":100,
+    "request_1":
+    {
+        "type":"POST",
+        "url":"http://192.168.0.2:80/",
+        "data":{},
+        "headers":{},
+        "key_bad":
+        []
+    }
+}
